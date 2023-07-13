@@ -1,0 +1,9 @@
+22:42 / 1:05:14
+
+https://www.youtube.com/watch?v=sNDHYBeOQp4&ab_channel=CandDev
+
+Build a Real-Time Chat App with React, Firebase, and Tailwind CSS
+
+npm run dev
+
+RAFCE
